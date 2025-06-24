@@ -1,4 +1,4 @@
-# Multi-View-Natural-Network-for-Cross-Project-Software-Defect-Prediction
+# Multi View Natural Network for Cross Project Software Defect Prediction
 
 This is the notebook for Multi-View-Natural-Network-for-Cross-Project-Software-Defect-Prediction
 
